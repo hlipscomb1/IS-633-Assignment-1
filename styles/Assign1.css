@@ -1,0 +1,31 @@
+h1 {font-family: sans-serif; text-align: center; color: navy; }
+
+h2 {font-family: sans-serif; text-align: center; color: #CC5500; }
+
+h3 {font-family: sans-serif; text-align: center; color: #CC5500; }
+
+p {font-family: sans-serif; text-align: center; color: white; }
+
+body {width: 600px;}
+
+
+#section1 {visibility: hidden; position: absolute; height: 75%; width: 600px; overflow: scroll; background-color: black; }
+
+#section2 {visibility: hidden; position: absolute; height: 75%; width: 600px; overflow: scroll; background-color: navy; }
+
+#samfordhall {padding: 5pt; float: right; height: 25%; width: 25%; }
+
+#dbz {padding: 5pt; float: right; height: 25%; width: 25%; }
+
+.footer {text-align: center;
+  font-style: italic;
+    background-color: transparent;
+    text-align: center;
+    position: absolute;
+    width: 600px;
+    padding-top: 25pt;
+  font-size: 10px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0; }
