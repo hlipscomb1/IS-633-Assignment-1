@@ -8,6 +8,11 @@ p {font-family: sans-serif; text-align: center; color: white; }
 
 body {width: 600px;}
 
+@media screen and (max-width: 600px) {
+    body {
+        background-color: white;
+    }
+}
 
 #section1 {visibility: hidden; position: absolute; height: 75%; width: 600px; overflow: scroll; background-color: black; }
 
